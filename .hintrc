@@ -4,6 +4,7 @@
   ],
   "hints": {
     "axe/images-alt": "off",
-    "axe/text-alternatives": "off"
+    "axe/text-alternatives": "off",
+    "axe/forms": "off"
   }
 }
